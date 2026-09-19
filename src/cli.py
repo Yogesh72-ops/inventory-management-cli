@@ -1,7 +1,5 @@
 """
 cli.py
-Menu-driven command line interface for the Inventory Management System.
-Run with:  python src/cli.py
 """
 
 import sqlite3

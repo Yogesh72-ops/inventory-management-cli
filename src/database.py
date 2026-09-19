@@ -1,6 +1,5 @@
 """
 database.py
-Handles the SQLite connection and one-time schema initialization.
 """
 
 import sqlite3

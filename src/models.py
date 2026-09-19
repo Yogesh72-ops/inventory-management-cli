@@ -1,7 +1,5 @@
 """
 models.py
-All CRUD / business-logic operations, kept separate from the CLI layer.
-Every query is parameterized to avoid SQL injection.
 """
 
 import sqlite3

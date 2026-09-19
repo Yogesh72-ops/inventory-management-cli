@@ -1,10 +1,5 @@
 """
 seed_demo.py
-Populates the database with a handful of realistic rows so anyone
-cloning the repo can immediately explore it (and so your README
-screenshots have real data in them).
-
-Run with: python src/seed_demo.py
 """
 
 from database import init_db
