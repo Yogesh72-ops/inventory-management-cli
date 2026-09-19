@@ -1,0 +1,3 @@
+# This project uses only Python's built-in sqlite3 module.
+# No external dependencies are required.
+# (File kept intentionally so the repo structure matches Project 2.)
